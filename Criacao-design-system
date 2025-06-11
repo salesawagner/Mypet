@@ -1,0 +1,28 @@
+Com certeza! O **Lovable** (lovable.so) entende melhor prompts diretos, em inglês, e com tópicos claros. Aqui está um input pronto, baseado no design system do MeuPetVida, para você colar no Lovable e gerar o app ou UI kit desejado:
+
+---
+
+**Prompt para Lovable:**
+
+> Design a mobile app UI kit for “MeuPetVida”, an app for organizing and managing the life of pets (dogs and cats) in Brazil.  
+> 
+> - Visual style: clean, flat, modern, friendly, and trustworthy.  
+> - Color palette: soft blue (#4A90E2), soft green (#7ED321), beige (#F5F5DC), and soft neutrals. Include both light and dark mode versions.  
+> - Typography: Inter or Nunito, accessible and highly readable.  
+> - Components: primary and secondary buttons (48px height, 8px radius), text inputs (48px height, clear states), cards (white background, 12px radius, 16px padding), lists, tabs, chips, modals, alerts, bottom navigation, headers.  
+> - Icons: outline or filled, pet-friendly (dog, cat, paw, syringe, pill, food bowl, calendar, walk), 24x24px.  
+> - Layout: 8pt grid, responsive for iOS and Android, minimum touch area 48x48px.  
+> - Accessibility: high color contrast, large tap targets, clear and legible text.  
+> 
+> Show the style guide and main UI components on a single page. Use MeuPet, Flockr, and Petzillas as visual references.
+
+---
+
+**Dicas de uso:**
+- Cole o prompt no Lovable e aguarde a geração.
+- Depois, você pode pedir telas específicas, como:  
+  “Now create a pet profile screen using this style guide.”
+
+Se quiser prompts para fluxos ou telas específicas (ex: cadastro de pet, lista de vacinas), é só pedir!
+
+Fontes
